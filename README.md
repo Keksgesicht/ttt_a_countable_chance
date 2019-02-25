@@ -1,4 +1,5 @@
-Original Addon is: http://steamcommunity.com/sharedfiles/filedetails/?id=672173225 (_A Second Chance_).
+Original Addon is: http://steamcommunity.com/sharedfiles/filedetails/?id=672173225 (_A Second Chance_)                            
+my version of it: https://steamcommunity.com/sharedfiles/filedetails/?id=907187332 (_TTT A Countable Chance_)
 
 ## Server ConVars:
 - ttt_countablechance_det (whether a Detective can buy it - Default is 1)
