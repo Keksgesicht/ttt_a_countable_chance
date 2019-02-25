@@ -2,8 +2,8 @@ Original Addon is: http://steamcommunity.com/sharedfiles/filedetails/?id=6721732
 my version of it: https://steamcommunity.com/sharedfiles/filedetails/?id=907187332 (_TTT A Countable Chance_)
 
 ## Server ConVars:
-- ttt_countablechance_det (whether a Detective can buy it - Default is 1)
-- ttt_countablechance_tr (whether a Traitor can buy it - Default is 1)
+- ttt_countablechance_det     (whether a Detective can buy it - Default is 1)
+- ttt_countablechance_tr      (whether a Traitor can buy it - Default is 1)
 
 The probability depends on the maximum number of players that can play on the server and the number of living players. As Detective the maximum number of players is multiplied with the traitor percentage.
 
